@@ -1,6 +1,5 @@
 import { TenantService } from './tenant/tenant.service';
 import { CanActivate, ExecutionContext, Injectable } from '@nestjs/common';
-import { Observable } from 'rxjs';
 
 @Injectable()
 export class TenantGuard implements CanActivate {

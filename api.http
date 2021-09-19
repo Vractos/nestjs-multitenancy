@@ -21,7 +21,7 @@ Authorization: Bearer eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIzWUJ2dn
   "name": "Nova conta 1",
   "description": "Descrição",
   "category": "category1",
-  "amount": 30,
+  "amount": 100,
   "type": "debit"
 }
 
